@@ -18,40 +18,9 @@ Fork repos are a great way to...## Examples
 Fork repos are a great way to...
 ## Examples
 
-Fork repos are a great way to...## Examples
-Fork repos are a great way to...## Examples
-Fork repos are a great way to...## Examples
-Fork repos are a great way to...## Examples
-Fork repos are a great way to...## Examples
-Fork repos are a great way to...## Examples
-Fork repos are a great way to...## Examples
-Fork repos are a great way to...Fork repos are a great way to...## Examples
-Fork repos are a great way to...## Examples
-Fork repos are a great way to...## Examples
-Fork repos are a great way to...## Examples
-Fork repos are a great way to...## Examples
-Fork repos are a great way to...## Examples
-Fork repos are a great way to...## Examples
-Fork repos are a great way to...
-Fork repos are a great way to...
-## Examples
-Fork repos are a great way to...
-## Examples
-Fork repos are a great way to...
-## Examples
-Fork repos are a great way to...
-## Examples
-Fork repos are a great way to...
-## Examples
-Fork repos are a great way to...
-## Examples
-Fork repos are a great way to...## Examples
-Fork repos are a great way to...
-## Examples
-Fork repos are a great way to...
-## Examples
-Fork repos are a great way to...
 
 
-## Features
-Adding a feature to this repo. Isn't this feature really cool? I think it is
+## Example 2:
+Here is an another example of a forked repository
+
+## Stuff is on fire! 🔥

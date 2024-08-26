@@ -14,3 +14,7 @@ If someone gets time, can we fill this area out?
 Here is an another example of a forked repository
 
 ## Stuff is on fire! 🔥
+
+## Adding something new.
+
+Cloning this repository does *not* look like it does in the video and that really sucks lol.

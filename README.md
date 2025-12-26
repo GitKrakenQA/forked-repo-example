@@ -54,4 +54,4 @@ Fork repos are a great way to...
 
 
 ## Features
-Adding a feature to this repo. Isn't this feature really cool? I think it is
+Adding a feature to this repo. Isn't this feature really cool? I think it is a very cool feature.
